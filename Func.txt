@@ -1,0 +1,7 @@
+Gip(3*x)
+Exp(2*x)
+Log(2*x)
+Por(2*x)
+Tan(2*x)
+Sin(2*x)
+Cos(3*x)
